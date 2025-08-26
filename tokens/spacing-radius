@@ -1,0 +1,130 @@
+{
+  "Spacing": {
+    "bite-spacing-2": {
+      "$type": "dimension",
+      "$value": "2px"
+    },
+    "bite-spacing-4": {
+      "$type": "dimension",
+      "$value": "4px"
+    },
+    "bite-spacing-6": {
+      "$type": "dimension",
+      "$value": "6px"
+    },
+    "bite-spacing-8": {
+      "$type": "dimension",
+      "$value": "8px"
+    },
+    "bite-spacing-10": {
+      "$type": "dimension",
+      "$value": "10px"
+    },
+    "bite-spacing-12": {
+      "$type": "dimension",
+      "$value": "12px"
+    },
+    "bite-spacing-16": {
+      "$type": "dimension",
+      "$value": "16px"
+    },
+    "bite-spacing-20": {
+      "$type": "dimension",
+      "$value": "20px"
+    },
+    "bite-spacing-24": {
+      "$type": "dimension",
+      "$value": "24px"
+    },
+    "bite-spacing-32": {
+      "$type": "dimension",
+      "$value": "32px"
+    },
+    "bite-spacing-40": {
+      "$type": "dimension",
+      "$value": "40px"
+    },
+    "bite-spacing-48": {
+      "$type": "dimension",
+      "$value": "48px"
+    },
+    "bite-spacing-56": {
+      "$type": "dimension",
+      "$value": "56px"
+    },
+    "bite-spacing-64": {
+      "$type": "dimension",
+      "$value": "64px"
+    },
+    "bite-spacing-72": {
+      "$type": "dimension",
+      "$value": "72px"
+    },
+    "bite-spacing-80": {
+      "$type": "dimension",
+      "$value": "80px"
+    },
+    "bite-spacing-88": {
+      "$type": "dimension",
+      "$value": "88px"
+    },
+    "bite-spacing-96": {
+      "$type": "dimension",
+      "$value": "96px"
+    },
+    "bite-spacing-104": {
+      "$type": "dimension",
+      "$value": "104px"
+    },
+    "bite-spacing-112": {
+      "$type": "dimension",
+      "$value": "112px"
+    }
+  },
+  "Border_Radius": {
+    "bite-border-radius-2": {
+      "$type": "dimension",
+      "$value": "2px"
+    },
+    "bite-border-radius-4": {
+      "$type": "dimension",
+      "$value": "4px"
+    },
+    "bite-border-radius-6": {
+      "$type": "dimension",
+      "$value": "6px"
+    },
+    "bite-border-radius-8": {
+      "$type": "dimension",
+      "$value": "8px"
+    },
+    "bite-border-radius-12": {
+      "$type": "dimension",
+      "$value": "12px"
+    },
+    "bite-border-radius-16": {
+      "$type": "dimension",
+      "$value": "16px"
+    },
+    "bite-border-radius-20": {
+      "$type": "dimension",
+      "$value": "20px"
+    },
+    "bite-border-radius-24": {
+      "$type": "dimension",
+      "$value": "24px"
+    },
+    "bite-border-radius-32": {
+      "$type": "dimension",
+      "$value": "32px"
+    },
+    "bite-border-radius-40": {
+      "$type": "dimension",
+      "$value": "40px"
+    },
+    "bite-border-radius-48": {
+      "$type": "dimension",
+      "$value": "48px"
+    }
+  }
+}
