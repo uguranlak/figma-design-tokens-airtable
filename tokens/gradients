@@ -1,0 +1,89 @@
+{
+  "Gradient": {
+    "Red-Pink": {
+      "$type": "gradient",
+      "$value": {
+        "type": "linear",
+        "angle": 142,
+        "stops": [
+          {
+            "color": "#ff5150",
+            "position": 0
+          },
+          {
+            "color": "#ff78f5",
+            "position": 1
+          }
+        ]
+      }
+    },
+    "Pink-Purple": {
+      "$type": "gradient",
+      "$value": {
+        "type": "linear",
+        "angle": 142,
+        "stops": [
+          {
+            "color": "#ff78f5",
+            "position": 0
+          },
+          {
+            "color": "#9b50ff",
+            "position": 1
+          }
+        ]
+      }
+    },
+    "Purple-Orange": {
+      "$type": "gradient",
+      "$value": {
+        "type": "linear",
+        "angle": 142,
+        "stops": [
+          {
+            "color": "#9b50ff",
+            "position": 0
+          },
+          {
+            "color": "#ff8233",
+            "position": 1
+          }
+        ]
+      }
+    },
+    "Orange-Green": {
+      "$type": "gradient",
+      "$value": {
+        "type": "linear",
+        "angle": 142,
+        "stops": [
+          {
+            "color": "#ff8233",
+            "position": 0
+          },
+          {
+            "color": "#65e6d2",
+            "position": 1
+          }
+        ]
+      }
+    },
+    "Green-Purple": {
+      "$type": "gradient",
+      "$value": {
+        "type": "linear",
+        "angle": 142,
+        "stops": [
+          {
+            "color": "#65e6d2",
+            "position": 0
+          },
+          {
+            "color": "#9b50ff",
+            "position": 1
+          }
+        ]
+      }
+    }
+  }
+}
